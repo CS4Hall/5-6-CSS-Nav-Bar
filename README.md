@@ -5,5 +5,5 @@
 🔗 w3Schools Nav Bar Resource is Here ----> ([CSS Nav Bar](https://www.w3schools.com/css/css_navbar.asp)) & ([CSS Horizontal Nav Bar](https://www.w3schools.com/css/css_navbar_horizontal.asp))
 <br><br>
 ## Step #2 - Get Nav Bar to Work on all HTML Pages
-Copy the Nav Bar code from `index.html` so that the Nav Bar works on all four .html pages <br><br>
+Copy the CSS Nav Bar code from `index.html` so that the Nav Bar works on all four .html pages <br><br>
 
